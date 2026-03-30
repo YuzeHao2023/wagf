@@ -14,8 +14,8 @@ export const fellows: Fellow[] = [
   {
     id: "1",
     name: {
-      en: "Prof. Wei Zhang",
-      zh: "张伟教授",
+      en: "Prof. Xiang Zhang",
+      zh: "张翔教授",
       "zh-TW": "張偉教授",
       ja: "張偉教授",
       ko: "장웨이 교수",
@@ -38,7 +38,7 @@ export const fellows: Fellow[] = [
       es: "Academia Mundial de Finanzas Verdes"
     },
     bio: {
-      en: "Professor Wei Zhang has over 20 years of research experience in green finance and sustainable development. He has served as a consultant to several international financial institutions and is committed to promoting the formulation and implementation of carbon neutrality policies.",
+      en: "Professor Xiang Zhang has over 20 years of research experience in green finance and sustainable development. He has served as a consultant to several international financial institutions and is committed to promoting the formulation and implementation of carbon neutrality policies.",
       zh: "张伟教授在绿色金融和可持续发展领域拥有超过20年的研究经验。他曾担任多家国际金融机构的顾问，致力于推动碳中和政策的制定与实施。",
       "zh-TW": "張偉教授在綠色金融和可持續發展領域擁有超過20年的研究經驗。他曾擔任多家國際金融機構的顧問，致力於推動碳中和政策的制定與實施。",
       ja: "張偉教授は、グリーン金融と持続可能な開発の分野で20年以上の研究経験があります。彼はいくつかの国際金融機関の顧問を務め、カーボンニュートラル政策の策定と実施の推進に取り組んでいます。",
@@ -53,7 +53,7 @@ export const fellows: Fellow[] = [
       ko: ["탄소 금융", "거시경제학", "기후 정책"],
       es: ["Finanzas de Carbono", "Macroeconomía", "Política Climática"]
     },
-    image: "https://picsum.photos/seed/fellow1/400/500",
+    image: "asserts/xiangzhang.png",
     email: "zhangwei@wagf.org"
   },
   {
@@ -98,7 +98,7 @@ export const fellows: Fellow[] = [
       ko: ["ESG", "임팩트 투자", "생물 다양성 금융"],
       es: ["ESG", "Inversión de Impacto", "Finanzas de Biodiversidad"]
     },
-    image: "https://picsum.photos/seed/fellow2/400/500",
+    image: "asserts/Jenkins.png",
     website: "https://example.com/sarah"
   },
   {
@@ -143,6 +143,6 @@ export const fellows: Fellow[] = [
       ko: ["그린 본드", "재생 에너지 금융", "인프라"],
       es: ["Bonos Verdes", "Financiación de Energías Renovables", "Infraestructura"]
     },
-    image: "https://picsum.photos/seed/fellow3/400/500"
+    image: "asserts/liming.png"
   }
 ];
